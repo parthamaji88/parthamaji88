@@ -6,6 +6,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyhead88&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=crazyhead88&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=crazyhead88&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crazyhead88&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshwhere" /> </p>
